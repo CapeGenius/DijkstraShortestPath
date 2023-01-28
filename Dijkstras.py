@@ -33,4 +33,20 @@ class Dijkstra:
         self.pathsUnvisited = [node1, node2, node3, node4, node6, node7, node8, node10]
         self.pathsVisited = []
 
-    
+    def DijkstraPolicy():
+        
+        allVisited = False
+
+        while allVisited == False:
+            if self.pathsUnvisited.size() == 0:
+                allVisited = True
+            else:
+                pass
+            pass
+
+
+
+        pass
+
+def main():
+    pass
